@@ -1,0 +1,1 @@
+Reproduces a bug when using `create-react-app`, absolute imports and a mono repo.
